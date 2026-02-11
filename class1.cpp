@@ -10,8 +10,8 @@ public:
 after edit: 
 save = crtl+S
 git add .
-git commit "update"
+git commit -m "update"
 git push
 
 to see the edit
-get pull
+git pull
