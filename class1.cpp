@@ -6,4 +6,12 @@ public:
         std::cout << "Class1 running" << std::endl;
     }
 };
-يالزنجيي
+
+after edit: 
+save = crtl+S
+git add .
+git commit 
+git push
+
+to see the edit
+get pull
